@@ -5,7 +5,7 @@
 
 - 🔭 I just created my first game: ChainedThoughts
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play guitar/Football ⚽ and Video Games
 
 
 
