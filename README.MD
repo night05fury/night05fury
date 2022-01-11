@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I just created my first game: ChainedThoughts
+- 🔭 I just created my first game: ChainedThoughts [https://bbqsauce67.itch.io/chained-thoughts]
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar/Football ⚽ and Video Games
 
