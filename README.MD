@@ -4,6 +4,7 @@
 
 
 - 🔭 I just created my first game: ChainedThoughts [https://bbqsauce67.itch.io/chained-thoughts]
+- 🔭 I made my second game(Group Project) [https://ommani02.itch.io/track-o-treat]
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, and play guitar/Football ⚽ and Video Games
 
