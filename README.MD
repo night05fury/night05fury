@@ -32,12 +32,12 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=night05fury.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
+![instagram]: https://instagram.com/lu05ffy
+![linkedin]: https://linkedin.com/in/mayankkumar05
 # 🏅 Certificates:
 <p>
 
 </p>
 
 
-[instagram]: https://instagram.com/lu05ffy
-[linkedin]: https://linkedin.com/in/mayankkumar05
 
