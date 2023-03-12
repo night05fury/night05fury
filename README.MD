@@ -1,7 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Kazi Mahbubur Rahman</h1>
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Mayank Kumar Patel</h1>
 <h3 align="center">¯\_(ツ)_/¯
-
-Programmer | Content Creator | Learner
 
 ?></h3>
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
