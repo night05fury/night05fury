@@ -2,11 +2,11 @@
 
 
 
-
-- 🔭 I just created my first game: ChainedThoughts [https://bbqsauce67.itch.io/chained-thoughts]
-- 🔭 I made my second game(Group Project) [https://ommani02.itch.io/track-o-treat]
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw, and play guitar/Football ⚽ and Video Games
+-🔭 I’m currently working on Web Development
+-🌱 I’m currently learning JavaScript
+-🔭 I made a game(Group Project) [https://ommani02.itch.io/track-o-treat]
+-🥅 2023 Goals: Contribute more to Open Source projects
+-⚡ Fun fact: I love to draw, and play guitar/Football ⚽ and Video Games
 
 
 
