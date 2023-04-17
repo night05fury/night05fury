@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript , React JS and ThreeJS**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
