@@ -48,8 +48,9 @@
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=night05fury&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=night05fury.visitor-badge&left_color=blue&right_color=yellow)
+[visitor badge](https://visitor-badge.glitch.me/badge?page_id=night05fury.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
 [instagram]: https://instagram.com/lu05ffy
