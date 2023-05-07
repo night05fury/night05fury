@@ -39,14 +39,14 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Leaveitblank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leave-it-blank&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Mayank Kumar Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=night05fury&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Leave-it-blank&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=night05fury&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leave-it-blank&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=night05fury&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=night05fury.visitor-badge&left_color=blue&right_color=yellow)
