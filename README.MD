@@ -1,4 +1,4 @@
-<h1 align="center">Hi " height="55px" width="55px">, I'm Mayank Kumar Patel</h1>
+<h1 align="center">Hi, I'm Mayank Kumar Patel</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 ></h3>
