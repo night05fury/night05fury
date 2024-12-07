@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**night05fury/night05fury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **MKP**, a developer passionate about **web development** and **data science**.  
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On  
+- Full-stack **expense tracker** app using Python.  
+- Exploring **machine learning** and **data visualization**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Tech Stack  
+- **Web**: HTML, CSS, JavaScript, React, Node.js  
+- **Data Science**: Python, Pandas, NumPy, Matplotlib  
+
+## ⚽ Fun Fact  
+Big **Real Madrid** fan! ¡Hala Madrid!  
+
+## 📊 GitHub Stats  
+
+![MKP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=night05fury&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=night05fury&layout=compact&theme=radical)  
+
+---
+
+Feel free to check out my projects!  
