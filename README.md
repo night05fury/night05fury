@@ -3,11 +3,10 @@
 I'm **MKP**, a developer passionate about **web development** and **data science**.  
 
 ## 🚀 What I'm Working On  
-- Full-stack **expense tracker** app using Python.  
 - Exploring **machine learning** and **data visualization**.  
 
 ## 📚 Tech Stack  
-- **Web**: HTML, CSS, JavaScript, React, Node.js  
+- **Web**: HTML, TailwindCSS, JavaScript, React, Node.js  
 - **Data Science**: Python, Pandas, NumPy, Matplotlib  
 
 ## ⚽ Fun Fact  
