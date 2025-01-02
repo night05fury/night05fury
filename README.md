@@ -13,7 +13,6 @@ I'm **MKP**, a developer passionate about **web development** and **data science
 Big **Real Madrid** fan! ¡Hala Madrid!  
 
 ## 📊 GitHub Stats  
-
 ![MKP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=night05fury&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=night05fury&layout=compact&theme=radical)  
 
